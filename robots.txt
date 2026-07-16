@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asif-nawaz27.github.io/portfolio/sitemap.xml
